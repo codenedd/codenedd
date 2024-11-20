@@ -11,7 +11,7 @@
 - [✅] **MySQL** && **SQLite**
 - [⚙️] **PostgreSQL** && **MongoDB**
 - [⚙️] **React** && **Next.js**
-- [🔜] **Tauri** || **Electron**
+- [⚙️] **Electron**
 - [🔜] **React Native**
 
 
