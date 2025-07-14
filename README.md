@@ -4,6 +4,7 @@
 ➟ [LiveStream Alert](https://livestream-alert.vercel.app/) (Electron Desktop App to follow your favorite streams on Twitch.tv) <br/>
 ➟ [Pixalyze](https://try-pixalyze.vercel.app/) (A simple Web App for visualizing data in the form of tables and charts) <br/>
 ➟ [Nonogram Solver](https://try-nonogram-solver.vercel.app/) (Nonogram puzzle solving App) <br/>
+➟ [discordjs-modules](https://www.npmjs.com/package/discordjs-modules) (A NodeJS package to easily build modular bots in discord.js) <br/>
 
 ## Contact
 - Discord - c0de.js
