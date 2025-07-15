@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F726&random=false&width=470&height=35&lines=%F0%9F%91%8B+Hi%2C+I'm+Artur+-+JavaScript+Lover+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 ## My apps
-➟ [LiveStream Alert](https://livestream-alert.vercel.app/) (Electron Desktop App to follow your favorite streams on Twitch.tv) <br/>
-➟ [Pixalyze](https://try-pixalyze.vercel.app/) (A simple Web App for visualizing data in the form of tables and charts) <br/>
-➟ [Nonogram Solver](https://try-nonogram-solver.vercel.app/) (Nonogram puzzle solving App) <br/>
-➟ [discordjs-modules](https://www.npmjs.com/package/discordjs-modules) (A NodeJS package to easily build modular bots in discord.js) <br/>
+➟ [LiveStream Alert](https://livestream-alert.vercel.app/)             | Electron Desktop App to follow your favorite streams on Twitch.tv <br/>
+➟ [Pixalyze](https://try-pixalyze.vercel.app/)                         | A simple Web App for visualizing data in the form of tables and charts <br/>
+➟ [Nonogram Solver](https://try-nonogram-solver.vercel.app/)           | Nonogram puzzle solving App <br/>
+➟ [discordjs-modules](https://www.npmjs.com/package/discordjs-modules) | A NodeJS package to easily build modular bots in discord.js <br/>
 
 ## Contact
 - Discord - c0de.js
